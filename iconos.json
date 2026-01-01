@@ -1,19 +1,19 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/raucheacho/iconos/releases/download/v0.3.1/iconos_0.3.1_windows_amd64.zip",
+            "url": "https://github.com/raucheacho/iconos/releases/download/v0.3.2/iconos_0.3.2_windows_amd64.zip",
             "bin": [
                 "iconos.exe"
             ],
-            "hash": "df781f3696adc95498df5ae3bb276ed2ab6626acf5a8b6950d45518e8df858bb"
+            "hash": "469ff88a95601e8c0e17291f636c73a28c7b5410ea2a4573326ff6898cd531ee"
         },
         "arm64": {
-            "url": "https://github.com/raucheacho/iconos/releases/download/v0.3.1/iconos_0.3.1_windows_arm64.zip",
+            "url": "https://github.com/raucheacho/iconos/releases/download/v0.3.2/iconos_0.3.2_windows_arm64.zip",
             "bin": [
                 "iconos.exe"
             ],
-            "hash": "49cf0c47ac282be82f1ac6a700dd4b2ffa77306d0c978b245631638a874a53a4"
+            "hash": "109dc79c57e06e07bbb38b9575a0652f8b205d3c73059d99b44f2a15693f40aa"
         }
     },
     "homepage": "https://github.com/raucheacho/iconos",

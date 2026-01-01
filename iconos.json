@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/raucheacho/iconos/releases/download/v0.2.0/iconos_0.2.0_windows_amd64.zip",
+            "bin": [
+                "iconos.exe"
+            ],
+            "hash": "df9f0de190770a43c4c1b384fa494c8c9d3843d81c26174328b3b0273b103122"
+        },
+        "arm64": {
+            "url": "https://github.com/raucheacho/iconos/releases/download/v0.2.0/iconos_0.2.0_windows_arm64.zip",
+            "bin": [
+                "iconos.exe"
+            ],
+            "hash": "5823487136ac896ef577a13ee221cdafaea40e03c8a5e960a3ffce3d6c4dc4ed"
+        }
+    },
+    "homepage": "https://github.com/raucheacho/iconos",
+    "license": "MIT",
+    "description": "CLI tool to generate icons and favicons from a source image"
+}

@@ -1,0 +1,15 @@
+{
+    "version": "0.2.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/raucheacho/rosia-cli/releases/download/v0.2.3/rosia_0.2.3_windows_amd64.tar.gz",
+            "bin": [
+                "rosia.exe"
+            ],
+            "hash": "dab5cb5548e6b304a68d197c3d3a61f0a647cf6e4bb7fe441a27966e49d2abea"
+        }
+    },
+    "homepage": "https://github.com/raucheacho/rosia-cli",
+    "license": "MIT",
+    "description": "Clean development dependencies and caches"
+}

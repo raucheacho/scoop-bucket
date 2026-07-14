@@ -1,0 +1,21 @@
+{
+    "version": "1.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/raucheacho/wotp/releases/download/v1.0.2/wotp-cli_Windows_x86_64.zip",
+            "bin": [
+                "wotp.exe"
+            ],
+            "hash": "8df3f76fdbcc14b508fe875408e9748dd59519d2263383d619a8bfe8d30abd81"
+        },
+        "arm64": {
+            "url": "https://github.com/raucheacho/wotp/releases/download/v1.0.2/wotp-cli_Windows_arm64.zip",
+            "bin": [
+                "wotp.exe"
+            ],
+            "hash": "35c3ec0e7ae7cd2e8038b0764aa2f63c5a1d4fa2ad7bc40edb58b0598e21b7e8"
+        }
+    },
+    "homepage": "https://github.com/wotp/wotp",
+    "description": "Self-hosted WhatsApp OTP provider CLI"
+}

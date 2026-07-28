@@ -1,12 +1,12 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/raucheacho/lanup/releases/download/v1.0.1/lanup_1.0.1_Windows_x86_64.zip",
+            "url": "https://github.com/raucheacho/lanup/releases/download/v1.0.2/lanup_1.0.2_Windows_x86_64.zip",
             "bin": [
                 "lanup.exe"
             ],
-            "hash": "b21fe6daa03c82510607da511ba1e376035a4b67c059762c2effb77b9eaab7d2"
+            "hash": "39f657cd00164cdb73734ad9eeff6528176144089fae708b2b54e99296f94e75"
         }
     },
     "homepage": "https://github.com/raucheacho/lanup",
